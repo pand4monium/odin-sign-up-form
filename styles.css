@@ -45,7 +45,7 @@ body {
 }
 
 .odin-logo {
-    height: 70px;
+    height: 108px;
     width: auto;
 }
 
@@ -53,7 +53,7 @@ body {
     font-family: "norse-bold", sans-serif;
     color: white;
     opacity: 100%;
-    font-size: 56px;
+    font-size: 92px;
 }
 
 .right-screen {
@@ -98,7 +98,7 @@ body {
 }
 
 .questions > div > label {
-    font-size: small;
+    font-size: 18px;
     font-weight: 550;
 }
 
